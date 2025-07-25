@@ -1,0 +1,26 @@
+Privacy Policy for Indian Sign Language Assistant (Chrome Extension)
+Effective Date: July 20, 2025
+Extension Name: ISL Word Assistant
+Developed by: Students and Faculty of St. George's College Aruvithura
+
+What Data We Collect
+
+This extension does not collect, store, or transmit any personal information, browsing history, or user-identifiable data.
+
+Permissions Used
+
+Storage: Used only to remember whether the extension is turned on or off (toggle state).
+
+Host Permissions: Used to detect selected words on websites to display relevant Indian Sign Language videos. No page content is stored or transmitted.
+
+Remote Data
+
+The extension fetches a static JSON file containing a word-to-video mapping from a GitHub repository. This file contains no user data and is used only for providing sign language content.
+
+Data Sharing
+
+We do not share any information with third parties. No analytics, advertising, or tracking tools are used.
+
+Contact
+
+If you have any questions, please contact: jestinjoy@sgcaruvithura.ac.in
